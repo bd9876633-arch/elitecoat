@@ -1,1 +1,10 @@
-{"redirects":[{"source":"/(.*)","has":[{"type":"host","value":"elitecoatinteriors.co.uk"}],"destination":"https://www.elitecoatinteriors.co.uk/$1","permanent":true}]}
+﻿{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [{ "type": "host", "value": "elitecoatinteriors.co.uk" }],
+      "destination": "https://www.elitecoatinteriors.co.uk/$1",
+      "permanent": true
+    }
+  ]
+}
